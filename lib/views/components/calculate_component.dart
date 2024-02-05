@@ -1,0 +1,1 @@
+part of 'component.dart';
