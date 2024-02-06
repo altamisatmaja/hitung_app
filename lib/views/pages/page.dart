@@ -1,3 +1,5 @@
+import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
 import 'package:hitung/views/components/component.dart';
 import 'package:hitung/views/widgets/widget.dart';
 import 'package:hitung/utils/util.dart';
@@ -6,7 +8,7 @@ import 'package:hitung/models/model.dart';
 import 'package:hitung/blocs/bloc.dart';
 
 part 'home_page.dart';
-part 'welcome_screen_page.dart';
+part 'welcome_page.dart';
 
 part 'become_member/become_member_page.dart';
 
