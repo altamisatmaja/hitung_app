@@ -1,11 +1,16 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/svg.dart';
+import 'package:hitung/main.dart';
 import 'package:hitung/views/components/component.dart';
 import 'package:hitung/views/widgets/widget.dart';
 import 'package:hitung/utils/util.dart';
 import 'package:hitung/services/service.dart';
 import 'package:hitung/models/model.dart';
 import 'package:hitung/blocs/bloc.dart';
+import 'package:google_nav_bar/google_nav_bar.dart';
+import 'package:line_icons/line_icons.dart';
 
 
 part 'home_page.dart';

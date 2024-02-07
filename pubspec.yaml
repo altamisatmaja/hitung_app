@@ -28,6 +28,9 @@ dependencies:
   shared_preferences: ^2.2.2
   cupertino_icons: ^1.0.2
   # google_mobile_ads: ^4.0.0
+  google_nav_bar: ^5.0.6
+  line_icons: ^2.0.3
+
 
 dev_dependencies:
   flutter_test:
@@ -37,6 +40,7 @@ dev_dependencies:
   freezed: ^2.4.5
   json_serializable: ^6.7.1
   flutter_lints: ^3.0.1
+  
 
 
 flutter:

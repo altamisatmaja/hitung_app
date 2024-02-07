@@ -15,6 +15,7 @@ TextStyle interRegular_14 = interRegular_12.copyWith(fontSize: 14);
 TextStyle interRegular_16 = interRegular_12.copyWith(fontSize: 16);
 
 TextStyle interMedium_20 = interRegular_12.copyWith(fontWeight: FontWeight.w500, fontSize: 20);
+TextStyle interMedium_14 = interRegular_12.copyWith(fontWeight: FontWeight.w500, fontSize: 14);
 
 TextStyle interSemiBold_14 = interMedium_20.copyWith(fontWeight: FontWeight.w600, fontSize: 14);
 TextStyle interSemiBold_16 = interSemiBold_14.copyWith(fontSize: 16);
